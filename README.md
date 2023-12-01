@@ -18,15 +18,15 @@ Our solution involves the implementation of a device that detects any movement w
 - [Tinkercad Account](https://www.tinkercad.com/)
 
 1. Clone the repository:
-git clone https://github.com/your-username/elderly-care-monitoring.git
+git clone https://github.com/FIAP-PAULISTA/GS-Edge-aplication.git
 
-2. Open the Arduino IDE and load the project.
+3. Open the Arduino IDE and load the project.
 
-3. Configure the timer setting for 24 hours by replacing the placeholder value (86400000) in the code with the desired time in milliseconds.
+4. Configure the timer setting for 24 hours by replacing the placeholder value (86400000) in the code with the desired time in milliseconds.
 
-4. Upload the code to your Arduino board.
+5. Upload the code to your Arduino board.
 
-5. Visit the [Tinkercad Simulation](https://www.tinkercad.com/things/h1T8g3pRZLB-sensor-presenca) for a virtual demonstration.
+6. Visit the [Tinkercad Simulation](https://www.tinkercad.com/things/h1T8g3pRZLB-sensor-presenca) for a virtual demonstration.
 
 ## Simulation Link
 
