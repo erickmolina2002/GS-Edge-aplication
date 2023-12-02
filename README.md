@@ -18,8 +18,7 @@ Our solution involves the implementation of a device that detects any movement w
 - [Tinkercad Account](https://www.tinkercad.com/)
 
 1. Clone the repository:
-git clone https://github.com/FIAP-PAULISTA/GS-Edge-aplication.git
-
+git clone https://github.com/erickmolina2002/GS-Edge-aplication.git
 3. Open the Arduino IDE and load the project.
 
 4. Configure the timer setting for 24 hours by replacing the placeholder value (86400000) in the code with the desired time in milliseconds.
